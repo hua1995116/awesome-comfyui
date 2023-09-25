@@ -10,6 +10,7 @@ CN 模型合集
 
 [IP-Adapter](https://huggingface.co/h94/IP-Adapter/tree/main)
 
+[CN-lora](https://huggingface.co/stabilityai/control-lora)
 
 ## 插件合集
 
@@ -23,5 +24,10 @@ CN 模型合集
 
 
 ## webui优秀插件
+ps内嵌webui
 
 [sd-webui-photopea-embed](https://github.com/yankooliveira/sd-webui-photopea-embed)
+
+尺寸控制
+
+[sd-webui-ar](https://github.com/alemelis/sd-webui-ar/blob/main/scripts/sd-webui-ar.py)
